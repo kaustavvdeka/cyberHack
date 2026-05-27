@@ -25,9 +25,7 @@ This tool is designed for:
 ### Installation
 
 ```bash
-# Clone the repository
-git clone <your-repo-url> pentest-dashboard
-cd pentest-dashboard
+
 
 # Make start script executable
 chmod +x start.sh
